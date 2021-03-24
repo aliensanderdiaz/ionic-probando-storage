@@ -1,0 +1,7 @@
+{
+  "name": "probando-storage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

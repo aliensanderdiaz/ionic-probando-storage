@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "probando-storage",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
